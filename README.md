@@ -194,7 +194,6 @@ instances.
 In this example, we only have two classes, but with `require_relative`, we can
 have as many classes as we want, each in a separate file. As long as they are
 all required in the file that we run, they'll get loaded.
-
 ### Local Variables
 
 It is important to note that both `require` and `require_relative` will not load
